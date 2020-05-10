@@ -1,6 +1,6 @@
 # Wilson IoT
 
-Wilson IoT is a simple assistant who react to voice commands and interacts with hardware through its API
+Wilson IoT is a simple assistant who reacts to voice commands and interacts with hardware through its API
 
 It was inspired by [this tutorial](https://medium.com/kmakes/how-i-made-an-app-to-recognize-speech-c65c4be666fa). I recommend you to read it if you don't have previous experience using any of the required modules.
 
